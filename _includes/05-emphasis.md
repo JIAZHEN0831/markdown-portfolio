@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*HI*
+_HELLO_
+
+**MY NAME IS JENNY**
+__東華社會三__
